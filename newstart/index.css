@@ -1,0 +1,169 @@
+body{
+    background-color: antiquewhite;
+}
+.photo{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    background-image: url(siddak.jpg);
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  display: inline-block;
+}
+.sid{
+    position: relative;
+    display: inline-block;
+    padding-left: 10px;
+    bottom: 40px;
+    font-size: 20px;
+}
+#help1{
+    display: inline-block;
+    position: relative;
+    right: 170px;
+    bottom: 10px;
+}
+.something{
+    display: inline-block;
+    position: relative;
+    bottom: 132px;
+    left: 280px;
+    outline: 5px darkblue;
+    outline-width: 5px;
+    border-width: 1px;
+    border-style: solid;
+}
+.parent{
+    position: relative;
+    display: inline-block;
+}
+.container{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    left: 25%;
+    bottom: 130px;
+    
+}
+.box1{
+    height: 40px;
+    width: 40px;
+    background-color:brown;
+    padding: 2px;
+    display: inline-block;
+    background-image: url(images.jpg);
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  display: inline-block;
+  border-radius: 10px;
+   
+}
+.box2{
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    padding: 2px;
+    display: inline-block;
+    background-image: url(codechef.png);
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  display: inline-block;
+}
+.box3{
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    padding: 2px;
+    display: inline-block;
+    background-image: url(github.png);
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  display: inline-block;
+}
+.box4{
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    padding: 2px;
+    display: inline-block;
+    background-image: url(linkedin.png);
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  display: inline-block;
+}
+.nj{
+    position: relative;
+    bottom: 40px;
+    display: inline-block;
+
+}
+.parent2{
+  display: inline-block;
+  width: 100%;
+  height: 300px;
+  position: relative;
+bottom: 80px;
+
+  
+}
+.news{
+  display: inline-block;
+  position: relative;
+  
+ 
+  bottom: 90px;
+  right: 220px;
+}
+
+#help5{
+  height: 290px;
+ min-width: 200px;
+ object-fit: cover;
+  display: inline-block;
+  position: relative;
+  left: 100px;
+  top:4px;
+  border-radius: 10px;
+}
+.title1{
+  display: inline-block;
+  position: relative;
+  bottom: 210px;
+  font-size: 50px;
+  left: 50px;
+}
+.last{
+  text-align: center;
+}
+#help6{
+  height: 290px;
+ min-width: 200px;
+ object-fit: cover;
+  display: inline-block;
+  position: relative;
+  left: 270px;
+  top:4px;
+  border-radius: 10px;
+}
+#help7{
+  height: 300px;
+ min-width: 200px;
+ object-fit: cover;
+ object-position: 0px;
+  display: inline-block;
+  position: relative;
+  left: 90px;
+  top:4px;
+  border-radius: 10px;
+}
